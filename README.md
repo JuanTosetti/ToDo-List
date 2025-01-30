@@ -1,6 +1,6 @@
 # ToDo-List
 🚀 To-Do List App 
-🚀 To-Do List App
+
 Una aplicación de lista de tareas interactiva y dinámica desarrollada con HTML, CSS y JavaScript. Este proyecto incluye funcionalidades como:
 
 Agregar tareas: Añade nuevas tareas fácilmente.
