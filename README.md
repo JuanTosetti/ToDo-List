@@ -24,4 +24,4 @@ JavaScript (DOM Manipulation, Event Handling)
 Font Awesome (Íconos)
 
 📂 Repositorio: https://github.com/JuanTosetti/ToDo-List
-🌐 Demo: 
+🌐 Demo: https://juantosetti.github.io/ToDo-List/
